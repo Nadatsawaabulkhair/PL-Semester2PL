@@ -1,7 +1,6 @@
-package TugasPlGcr;
+package TugasGCR;
 
 import java.util.Scanner;
-
 public class Algoritme {
     public static void main(String[] args) {
         String nimScan = "";
@@ -17,6 +16,5 @@ public class Algoritme {
         System.out.println("Fakultas : " + nim.fakultas());
         System.out.println("Prodi : " + nim.prodi());
         System.out.println("Jenis Kelamin : " + nim.jenisKelamin());
-        System.out.println("No Unik : " + nim.noUnik());
     }
 }

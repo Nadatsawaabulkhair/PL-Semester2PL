@@ -1,4 +1,4 @@
-package TugasPlGcr;
+package TugasGCR;
 
 public class NIM {
     private String nim;
@@ -73,9 +73,5 @@ public class NIM {
             return "Perempuan";
         }
         return "NOT FOUND";
+     }
     }
-
-    public String noUnik() {
-        return this.nim.substring(7,11);
-    }
-}
