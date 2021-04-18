@@ -1,4 +1,4 @@
-package TugasGCR;
+package TugasPlGcr;
 
 public class NIM {
     private String nim;
