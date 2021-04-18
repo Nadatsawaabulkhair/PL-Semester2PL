@@ -4,12 +4,6 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Arrays" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Basic Concepts" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Classes and Objects" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Conditionals and Loops" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Exceptions, List, Threads &amp; Files" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/More on Classes" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
