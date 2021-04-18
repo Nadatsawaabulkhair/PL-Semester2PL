@@ -7,7 +7,7 @@ public class NIM {
         this.nim = nim;
     }
 
-    // sample : 12050116400
+    // sample : 12050120313
 
     // 1
     public String jenjangPendidikan() {
@@ -40,7 +40,7 @@ public class NIM {
     public String fakultas() {
         String fac =  this.nim.substring(3,4);
         if (fac.equalsIgnoreCase("5")) {
-            return "Fakultas Teknik";
+            return "Fakultas Saintek";
         }else if (fac.equalsIgnoreCase("1")) {
             return "Fakultas Ekonomi";
         }else if (fac.equalsIgnoreCase("2")) {
